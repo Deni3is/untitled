@@ -1,0 +1,14 @@
+Index: ImportantFile.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?php\r\necho \"New game is cool\";\r\n\r\n?>\r\n\r\n\r\n
+===================================================================
+diff --git a/ImportantFile.php b/ImportantFile.php
+--- a/ImportantFile.php	
++++ b/ImportantFile.php	
+@@ -1,4 +1,5 @@
+ <?php
++
+ echo "New game is cool";
+ 
+ ?>
